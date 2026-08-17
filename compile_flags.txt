@@ -1,10 +1,10 @@
 # ImGui 路径，替换成你实际子模块目录
--ID:\llvmProject\submodule\imgui
--ID:\llvmProject\submodule\imgui\backends
+-ID:\work\imgui_template_project\imgui
+-ID:\work\imgui_template_project\imgui\backends
 # Windows SDK 头文件（根据你的VS安装目录修改）
 -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um
 -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared
 -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt
--ID:\VSTool\VC\Tools\MSVC\14.44.35207\include
+-ID:\VsPackage\VC\Tools\MSVC\14.51.36231\include
 # DX11 系统库目录
 -IC:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um
